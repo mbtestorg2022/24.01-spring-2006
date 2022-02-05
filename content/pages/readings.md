@@ -18,36 +18,276 @@ Langton, Rae. _Study Guide to Descartes' Meditations_ (in progress). Available i
 Readings by Session
 -------------------
 
-| LEC # | READINGS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Plato**{{< /td-colspan >}} ||
-| 1 | Plato. "The Apology." In _Classics of Philosophy_. pp. 33-47. |
-| 2 | Plato. "Phaedo." In _Classics of Philosophy_. pp. 54-85. |
-| 3 | Plato. "Phaedo." In _Classics of Philosophy_. (cont.) |
-| 4 | Plato. "Phaedo." In _Classics of Philosophy_. (cont.) |
-| {{< td-colspan 2 >}}**Aristotle**{{< /td-colspan >}} ||
-| 5 | Aristotle. "On the Soul." In _Classics of Philosophy_. pp. 262-7. |
-| 6 | Aristotle. "On the Soul." In _Classics of Philosophy_. (cont.) |
-| 7 | Aristotle. "Nichomachean Ethics." In _Classics of Philosophy_. pp. 290-323. |
-| 8 | Aristotle. "Nichomachean Ethics." In _Classics of Philosophy_. (cont.) |
-| {{< td-colspan 2 >}}**Descartes**{{< /td-colspan >}} ||
-| 9 | Descartes, René. "Meditations on First Philosophy: First Meditation." In _Classics of Philosophy._ pp. 497-99. |
-| 10 | Descartes, René. "Meditations on First Philosophy: Second Meditation." In _Classics of Philosophy._ pp. 499-503. |
-| 11 | Descartes, René. "Meditations on First Philosophy: Third Meditation." In _Classics of Philosophy._ pp. 503-10. |
-| 12 | Descartes, René. "Meditations on First Philosophy: Fourth Meditation." In _Classics of Philosophy._ pp. 510-13. |
-| 13 | Descartes, René. "Meditations on First Philosophy: Fifth Meditation." In _Classics of Philosophy._ pp. 513-17. |
-| 14 | Descartes, René. "Meditations on First Philosophy: Sixth Meditation." In _Classics of Philosophy._ pp. 517-24. |
-| {{< td-colspan 2 >}}**Hume**{{< /td-colspan >}} ||
-| 15 | Hume, David. "An Enquiry Concerning Human Understanding." In _Classics of Philosophy_. pp. 728-89. |
-| 16 | Hume, David. "An Enquiry Concerning Human Understanding." In _Classics of Philosophy_. (cont.) |
-| 17 | Hume, David. "An Enquiry Concerning Human Understanding." In _Classics of Philosophy_. (cont.) |
-| {{< td-colspan 2 >}}**Kant**{{< /td-colspan >}} ||
-| 18 | Kant, Immanuel. "Foundation for the Metaphysic of Morals." In _Classics of Philosophy_. pp. 873-913. |
-| 19 | Kant, Immanuel. "Foundation for the Metaphysic of Morals." In _Classics of Philosophy_. (cont.) |
-| 20 | Kant, Immanuel. "Foundation for the Metaphysic of Morals." In _Classics of Philosophy_. (cont.) |
-| {{< td-colspan 2 >}}**Russell**{{< /td-colspan >}} ||
-| 21 | Russell, Bertrand. "The Problems of Philosophy." In _Classics of Philosophy_. pp. 1101-36. |
-| 22 | Russell, Bertrand. "The Problems of Philosophy." In _Classics of Philosophy_. (cont.) |
-| {{< td-colspan 2 >}}**Sartre**{{< /td-colspan >}} ||
-| 23 | Sartre, Jean-Paul. "Existentialism is a Humanism." In _Classics of Philosophy_. pp. 1220-24. |
-| 24 | Sartre, Jean-Paul. "Existentialism is a Humanism." In _Classics of Philosophy_. (cont.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Plato**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Plato. "The Apology." In _Classics of Philosophy_. pp. 33-47.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Plato. "Phaedo." In _Classics of Philosophy_. pp. 54-85.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Plato. "Phaedo." In _Classics of Philosophy_. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Plato. "Phaedo." In _Classics of Philosophy_. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Aristotle**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Aristotle. "On the Soul." In _Classics of Philosophy_. pp. 262-7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Aristotle. "On the Soul." In _Classics of Philosophy_. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Aristotle. "Nichomachean Ethics." In _Classics of Philosophy_. pp. 290-323.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Aristotle. "Nichomachean Ethics." In _Classics of Philosophy_. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Descartes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Descartes, René. "Meditations on First Philosophy: First Meditation." In _Classics of Philosophy._ pp. 497-99.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Descartes, René. "Meditations on First Philosophy: Second Meditation." In _Classics of Philosophy._ pp. 499-503.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Descartes, René. "Meditations on First Philosophy: Third Meditation." In _Classics of Philosophy._ pp. 503-10.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Descartes, René. "Meditations on First Philosophy: Fourth Meditation." In _Classics of Philosophy._ pp. 510-13.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Descartes, René. "Meditations on First Philosophy: Fifth Meditation." In _Classics of Philosophy._ pp. 513-17.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Descartes, René. "Meditations on First Philosophy: Sixth Meditation." In _Classics of Philosophy._ pp. 517-24.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Hume**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Hume, David. "An Enquiry Concerning Human Understanding." In _Classics of Philosophy_. pp. 728-89.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Hume, David. "An Enquiry Concerning Human Understanding." In _Classics of Philosophy_. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Hume, David. "An Enquiry Concerning Human Understanding." In _Classics of Philosophy_. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Kant**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Kant, Immanuel. "Foundation for the Metaphysic of Morals." In _Classics of Philosophy_. pp. 873-913.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Kant, Immanuel. "Foundation for the Metaphysic of Morals." In _Classics of Philosophy_. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Kant, Immanuel. "Foundation for the Metaphysic of Morals." In _Classics of Philosophy_. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Russell**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Russell, Bertrand. "The Problems of Philosophy." In _Classics of Philosophy_. pp. 1101-36.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Russell, Bertrand. "The Problems of Philosophy." In _Classics of Philosophy_. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Sartre**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Sartre, Jean-Paul. "Existentialism is a Humanism." In _Classics of Philosophy_. pp. 1220-24.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Sartre, Jean-Paul. "Existentialism is a Humanism." In _Classics of Philosophy_. (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

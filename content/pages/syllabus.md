@@ -30,11 +30,48 @@ Overall Assessment
 
 24.01 is a HASS CI Subject. Such subjects require at least 20 pages of writing (5000 words) divided among the different assignments. One assignment must be revised and resubmitted. HASS CI subjects also offer students substantial opportunity for oral expression, through presentations, student-led discussion, or class participation. In 24.01, Classics in Western Philosophy, these criteria are satisfied as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Recitation Grade | 20% |
-| Two Essays | 60% |
-| Final Exam | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation Grade
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Essays
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Recitation Grade: Based on attendance, preparation, contributions to discussion, and any written or oral assignments, including the 2 short exercises. Each exercise should be 2 pages long.
 
@@ -94,12 +131,105 @@ Additional Information: [Citing and Using Sources](http://cmsw.mit.edu/writing-a
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1-4 | Plato | First short exercise due 4 days after Lec #4 |
-| 5-8 | Aristotle | &nbsp; |
-| 9-14 | Descartes | First essay due 2 days after Lec #12 |
-| 15-17 | Hume | Second short exercise due 2 days after Lec #17 |
-| 18-20 | Kant | &nbsp; |
-| 21-22 | Russell | &nbsp; |
-| 23-24 | Sartre | Second essay due 2 days after Lec #23
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-4
+{{< tdclose >}}
+{{< tdopen >}}
+Plato
+{{< tdclose >}}
+{{< tdopen >}}
+First short exercise due 4 days after Lec #4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-8
+{{< tdclose >}}
+{{< tdopen >}}
+Aristotle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-14
+{{< tdclose >}}
+{{< tdopen >}}
+Descartes
+{{< tdclose >}}
+{{< tdopen >}}
+First essay due 2 days after Lec #12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-17
+{{< tdclose >}}
+{{< tdopen >}}
+Hume
+{{< tdclose >}}
+{{< tdopen >}}
+Second short exercise due 2 days after Lec #17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-20
+{{< tdclose >}}
+{{< tdopen >}}
+Kant
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-22
+{{< tdclose >}}
+{{< tdopen >}}
+Russell
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+Sartre
+{{< tdclose >}}
+{{< tdopen >}}
+Second essay due 2 days after Lec #23
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
